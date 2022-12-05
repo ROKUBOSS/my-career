@@ -1,0 +1,83 @@
+body{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: beige;
+    background-color: brown;
+    
+    }
+    table,th,td{
+    border: 5px solid gold;
+    padding: 10px;
+    border-collapse: collapse;
+    
+
+    /* width: 80%; */
+    
+    text-align: center;
+    
+    
+    color: chartreuse;
+    
+    }
+    img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    }
+    img:hover{
+    height: 300px;
+    width: 250px;
+    transition: all 1s linear;
+    }
+    
+    * {
+        box-sizing: border-box;
+      }
+      
+      .menu {
+        float: left;
+        width: 10%;
+        text-align: center;
+      }
+      .bigbrain{
+        height: 400px;
+        width: 400px;   
+    }
+      .midbrain{
+        height: 300px;
+        width: 300px;   
+    }
+      .smallbrain{
+        height: 200px;
+        width: 200px;   
+    }
+      
+      /* .menu a {
+        background-color: #e5e5e5;
+        padding: 8px;
+        margin-top: 7px;
+        display: block;
+        width: 100%;
+        color: black;
+      } */
+      
+      .main {
+        float: left;
+        width: 80%;
+        padding: 0 20px;
+      }
+      
+      .right {
+        background-color: #e5e5e5;
+        float: left;
+        width: 10%;
+        padding: 15px;
+        margin-top: 7px;
+        text-align: center;
+      }
+      h3{
+    text-align: left;
+    border-bottom: 10px double wheat;
+}
+      
+     
